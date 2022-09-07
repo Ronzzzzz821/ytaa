@@ -30,8 +30,8 @@ let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '10'
-botname = 'AzzBot•MD'
-wm = '© AzzBot - MD'
+botname = 'iya-bot'
+wm = '© Roni - MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -682,7 +682,7 @@ case 'tqto': case 'partner': case 'credits': {
 
 Yahya Ganzz
 ⌕ https://github.com/AzzBott679
-⌕ https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g
+⌕ https://https://chat.whatsapp.com/C4RYpIXgqknIXsnn3VDTog
 
 `
 	let btn = [{
